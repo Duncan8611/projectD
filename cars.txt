@@ -1,6 +1,3 @@
 -benz c-class
-<<<<<<< HEAD
 -MazdaEfiniRX-7(FD-3S)
-=======
 -TOYOTA TURENO GT-APEX(AE86)
->>>>>>> 33e48095c8e75238952ef36ba85b26a661b4c1bc
